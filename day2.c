@@ -43,7 +43,7 @@ main()
 		++ninputs;
 
 	}
-	printf("\nValid Part 1: %d\nValid Part 2: %d\n",ninputs-inv1,ninputs-inv2);
+	printf("\nValid Part 1: %d\nValid Part 2: %d\n", ninputs-inv1, ninputs-inv2);
 	return 0;
 
 }
